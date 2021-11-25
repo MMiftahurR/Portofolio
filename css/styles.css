@@ -602,6 +602,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  text-align: center;
 }
 
 .img-thumbnail {
@@ -7374,6 +7375,7 @@ textarea.form-control-lg {
 
 .mb-4 {
   margin-bottom: 1.5rem !important;
+  text-align: justify;
 }
 
 .mb-5 {
